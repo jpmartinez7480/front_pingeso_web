@@ -1,0 +1,16 @@
+.cardLogin{
+    background-color: #f1f7ed;
+    box-shadow: 0 0 10px black;
+}
+
+.btnSubmit{
+    border-radius: 0px;
+    width: 100%;
+    background: #1D976C;  /* fallback for old browsers */
+    color:#f1f7ed
+}
+
+.myInput{
+    border-radius: 0px;
+
+}
